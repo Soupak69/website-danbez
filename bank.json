@@ -1,0 +1,1710 @@
+[{
+  "searchString": "bank",
+  "rank": 1,
+  "searchPageUrl": "https://www.google.com/maps/search/bank/@-20.30000296186867,57.83601142837385,13z?hl=en",
+  "isAdvertisement": false,
+  "title": "MCB Bel Air",
+  "price": null,
+  "categoryName": "Bank",
+  "address": "PQV3+J67, B27, Bel Air, Mauritius",
+  "neighborhood": null,
+  "street": "PQV3+J67, B27",
+  "city": "Bel Air",
+  "postalCode": null,
+  "state": null,
+  "countryCode": "MU",
+  "website": "http://www.mcb.mu/",
+  "phone": "+230 419 1413",
+  "phoneUnformatted": "+2304191413",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -20.2559598,
+    "lng": 57.7530449
+  },
+  "totalScore": 4.1,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJZxHhl6DwfCERxNjgjrTrEi0",
+  "categories": [
+    "Bank"
+  ],
+  "fid": "0x217cf0a097e11167:0x2d12ebb48ee0d8c4",
+  "cid": "3247917442011289796",
+  "reviewsCount": 15,
+  "imagesCount": 1,
+  "imageCategories": [],
+  "scrapedAt": "2024-08-14T15:37:55.121Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "9 AM to 3:15 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "9 AM to 3:15 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "9 AM to 3:15 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "9 AM to 3:15 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "9 AM to 5 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible parking lot": false
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=MCB%20Bel%20Air&query_place_id=ChIJZxHhl6DwfCERxNjgjrTrEi0",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPBbo1KVOTbBXCb3LempfuSHfgTJ2dYGV5H_2VM=w408-h306-k-no"
+},
+{
+  "searchString": "bank",
+  "rank": 3,
+  "searchPageUrl": "https://www.google.com/maps/search/bank/@-20.30000296186867,57.83601142837385,13z?hl=en",
+  "isAdvertisement": false,
+  "title": "BA Exchange",
+  "price": null,
+  "categoryName": "Bank",
+  "address": "HPR4+9H6, Mahebourg, Mauritius",
+  "neighborhood": null,
+  "street": "HPR4+9H6",
+  "city": "Mahebourg",
+  "postalCode": null,
+  "state": null,
+  "countryCode": "MU",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -20.4090999,
+    "lng": 57.7064043
+  },
+  "totalScore": 3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ6zyeFQD1fCERcYm_FxNu0D8",
+  "categories": [
+    "Bank"
+  ],
+  "fid": "0x217cf500159e3ceb:0x3fd06e1317bf8971",
+  "cid": "4598296247827138929",
+  "reviewsCount": 1,
+  "imagesCount": null,
+  "imageCategories": [],
+  "scrapedAt": "2024-08-14T15:37:55.122Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=BA%20Exchange&query_place_id=ChIJ6zyeFQD1fCERcYm_FxNu0D8"
+},
+{
+  "searchString": "bank",
+  "rank": 4,
+  "searchPageUrl": "https://www.google.com/maps/search/bank/@-20.30000296186867,57.83601142837385,13z?hl=en",
+  "isAdvertisement": false,
+  "title": "Bank One",
+  "price": null,
+  "categoryName": "Bank",
+  "address": "A7, Central Flacq, Mauritius",
+  "neighborhood": null,
+  "street": "A7",
+  "city": "Central Flacq",
+  "postalCode": null,
+  "state": null,
+  "countryCode": "MU",
+  "website": "http://bankone.mu/",
+  "phone": "+230 202 9200",
+  "phoneUnformatted": "+2302029200",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -20.1919723,
+    "lng": 57.7210495
+  },
+  "totalScore": 3.7,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJL7OwbG_5fCERE3Ja-byfya0",
+  "categories": [
+    "Bank"
+  ],
+  "fid": "0x217cf96f6cb0b32f:0xadc99fbcf95a7213",
+  "cid": "12522715872866497043",
+  "reviewsCount": 7,
+  "imagesCount": null,
+  "imageCategories": [],
+  "scrapedAt": "2024-08-14T15:37:55.122Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "8:45 AM to 3:45 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "8:45 AM to 3:45 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "8:45 AM to 3:45 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "8:45 AM to 3:45 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "8:45 AM to 4 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": false
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Bank%20One&query_place_id=ChIJL7OwbG_5fCERE3Ja-byfya0"
+},
+{
+  "searchString": "bank",
+  "rank": 5,
+  "searchPageUrl": "https://www.google.com/maps/search/bank/@-20.30000296186867,57.83601142837385,13z?hl=en",
+  "isAdvertisement": false,
+  "title": "Mauritius Commercial Bank",
+  "price": null,
+  "categoryName": "Bank",
+  "address": "HPR4+C6Q, Mahebourg, Mauritius",
+  "neighborhood": null,
+  "street": "HPR4+C6Q",
+  "city": "Mahebourg",
+  "postalCode": null,
+  "state": null,
+  "countryCode": "MU",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -20.4089871,
+    "lng": 57.7055512
+  },
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJPXuzQQD1fCERBqCk7Rmei9U",
+  "categories": [
+    "Bank"
+  ],
+  "fid": "0x217cf50041b37b3d:0xd58b9e19eda4a006",
+  "cid": "15387566386039791622",
+  "reviewsCount": 0,
+  "imagesCount": null,
+  "imageCategories": [],
+  "scrapedAt": "2024-08-14T15:37:55.123Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Mauritius%20Commercial%20Bank&query_place_id=ChIJPXuzQQD1fCERBqCk7Rmei9U"
+},
+{
+  "searchString": "bank",
+  "rank": 6,
+  "searchPageUrl": "https://www.google.com/maps/search/bank/@-20.30000296186867,57.83601142837385,13z?hl=en",
+  "isAdvertisement": false,
+  "title": "SBM",
+  "price": null,
+  "categoryName": "Bank",
+  "address": "QPXC+M68, Central Flacq, Mauritius",
+  "neighborhood": null,
+  "street": "QPXC+M68",
+  "city": "Central Flacq",
+  "postalCode": null,
+  "state": null,
+  "countryCode": "MU",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -20.2008426,
+    "lng": 57.7205714
+  },
+  "totalScore": 2.6,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJU7IK1nD5fCERC_rn5kERJf8",
+  "categories": [
+    "Bank"
+  ],
+  "fid": "0x217cf970d60ab253:0xff251141e6e7fa0b",
+  "cid": "18385120028554426891",
+  "reviewsCount": 14,
+  "imagesCount": null,
+  "imageCategories": [],
+  "scrapedAt": "2024-08-14T15:37:55.123Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "9 AM to 3:15 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "9 AM to 3:15 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "9 AM to 3:15 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "9 AM to 3:15 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "9 AM to 4 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=SBM&query_place_id=ChIJU7IK1nD5fCERC_rn5kERJf8"
+},
+{
+  "searchString": "bank",
+  "rank": 1,
+  "searchPageUrl": "https://www.google.com/maps/search/bank/@-20.30000296186867,57.55908699999999,13z?hl=en",
+  "isAdvertisement": false,
+  "title": "State Bank of India",
+  "price": null,
+  "categoryName": "Bank",
+  "address": "PFQM+F5H, St Jean Road, Quatre Bornes, Mauritius",
+  "neighborhood": null,
+  "street": "PFQM+F5H, St Jean Road",
+  "city": "Quatre Bornes",
+  "postalCode": null,
+  "state": null,
+  "countryCode": "MU",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -20.2613171,
+    "lng": 57.4829947
+  },
+  "totalScore": 3.7,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJVXoMsD9bfCEReWzdO9LtVlY",
+  "categories": [
+    "Bank"
+  ],
+  "fid": "0x217c5b3fb00c7a55:0x5656edd23bdd6c79",
+  "cid": "6221421422462200953",
+  "reviewsCount": 3,
+  "imagesCount": 3,
+  "imageCategories": [],
+  "scrapedAt": "2024-08-14T15:37:55.320Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "9 AM to 4 AM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "9 AM to 4 AM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "9 AM to 4 AM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "9 AM to 4 AM"
+    },
+    {
+      "day": "Friday",
+      "hours": "9 AM to 4 AM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=State%20Bank%20of%20India&query_place_id=ChIJVXoMsD9bfCEReWzdO9LtVlY",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMqj77JLoGOOQMDcTIWTaaf1Q_M0RgB7Kh4-DRz=w426-h240-k-no"
+},
+{
+  "searchString": "bank",
+  "rank": 1,
+  "searchPageUrl": "https://www.google.com/maps/search/bank/@-19.91149407626266,57.69754921418692,13z?hl=en",
+  "isAdvertisement": false,
+  "title": "Mind investor",
+  "price": null,
+  "categoryName": "Bank",
+  "address": "XM84+H22, Plateau Road, Bank Rd, Goodlands, Mauritius",
+  "neighborhood": null,
+  "street": "XM84+H22, Plateau Road, Bank Rd",
+  "city": "Goodlands",
+  "postalCode": null,
+  "state": null,
+  "countryCode": "MU",
+  "phone": "+230 5906 6830",
+  "phoneUnformatted": "+23059066830",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -20.0336158,
+    "lng": 57.6550244
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJV4gFoJkBfSERurI4cC5o8YM",
+  "categories": [
+    "Bank"
+  ],
+  "fid": "0x217d0199a0058857:0x83f1682e7038b2ba",
+  "cid": "9507494837016375994",
+  "reviewsCount": 1,
+  "imagesCount": null,
+  "imageCategories": [],
+  "scrapedAt": "2024-08-14T15:37:55.332Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Mind%20investor&query_place_id=ChIJV4gFoJkBfSERurI4cC5o8YM"
+},
+{
+  "searchString": "bank",
+  "rank": 7,
+  "searchPageUrl": "https://www.google.com/maps/search/bank/@-20.30000296186867,57.83601142837385,13z?hl=en",
+  "isAdvertisement": false,
+  "title": "Absa | Branch | Fcdv",
+  "price": null,
+  "categoryName": "Bank",
+  "address": "Flacq coeur de ville Ground Floor Mauritius Flacq MU, 40606, Mauritius",
+  "neighborhood": null,
+  "street": "Flacq coeur de ville Ground Floor Mauritius Flacq MU",
+  "city": "Central Flacq",
+  "postalCode": "40606",
+  "state": null,
+  "countryCode": "MU",
+  "website": "https://www.absabank.mu/",
+  "phone": "+230 404 1945",
+  "phoneUnformatted": "+2304041945",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -20.185595,
+    "lng": 57.724045
+  },
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJifG_qvD5fCERopI70lWCev0",
+  "categories": [
+    "Bank"
+  ],
+  "fid": "0x217cf9f0aabff189:0xfd7a8255d23b92a2",
+  "cid": "18265054543865418402",
+  "reviewsCount": 0,
+  "imagesCount": null,
+  "imageCategories": [],
+  "scrapedAt": "2024-08-14T15:37:55.123Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "9 AM to 3:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "9 AM to 3:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "9 AM to 3:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "9 AM to 3:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "9 AM to 4 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Absa%20%7C%20Branch%20%7C%20Fcdv&query_place_id=ChIJifG_qvD5fCERopI70lWCev0"
+},
+{
+  "searchString": "bank",
+  "rank": 2,
+  "searchPageUrl": "https://www.google.com/maps/search/bank/@-20.30000296186867,57.55908699999999,13z?hl=en",
+  "isAdvertisement": false,
+  "title": "Standard Charted Bank (Mauritius)",
+  "price": null,
+  "categoryName": "Bank",
+  "address": "QF4W+MGX, Quatre Bornes, Mauritius",
+  "neighborhood": "Ebène",
+  "street": "QF4W+MGX",
+  "city": "Quatre Bornes",
+  "postalCode": null,
+  "state": null,
+  "countryCode": "MU",
+  "website": "https://www.sc.com/mu/",
+  "phone": "+230 403 6500",
+  "phoneUnformatted": "+2304036500",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -20.2432746,
+    "lng": 57.4963729
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJl9AIyuJafCERkeEGz-lxn38",
+  "categories": [
+    "Bank"
+  ],
+  "fid": "0x217c5ae2ca08d097:0x7f9f71e9cf06e191",
+  "cid": "9196194213128495505",
+  "reviewsCount": 2,
+  "imagesCount": 4,
+  "imageCategories": [],
+  "scrapedAt": "2024-08-14T15:37:55.321Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Standard%20Charted%20Bank%20(Mauritius)&query_place_id=ChIJl9AIyuJafCERkeEGz-lxn38",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOMErN9i6Q_HMWVOi21fCR66OsyIXm4Rchrust0=w421-h240-k-no"
+},
+{
+  "searchString": "bank",
+  "rank": 3,
+  "searchPageUrl": "https://www.google.com/maps/search/bank/@-20.30000296186867,57.55908699999999,13z?hl=en",
+  "isAdvertisement": false,
+  "title": "State Bank Of Mauritius",
+  "price": null,
+  "categoryName": "Bank",
+  "address": "PF3V+74R, Vacoas-Phoenix, Mauritius",
+  "neighborhood": null,
+  "street": "PF3V+74R",
+  "city": "Vacoas-Phoenix",
+  "postalCode": null,
+  "state": null,
+  "countryCode": "MU",
+  "phone": "+230 202 1111",
+  "phoneUnformatted": "+2302021111",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -20.2967547,
+    "lng": 57.4927773
+  },
+  "totalScore": 4.3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJO2l7npBcfCERKVeyafcZSvE",
+  "categories": [
+    "Bank"
+  ],
+  "fid": "0x217c5c909e7b693b:0xf14a19f769b25729",
+  "cid": "17386737861838133033",
+  "reviewsCount": 12,
+  "imagesCount": 4,
+  "imageCategories": [],
+  "scrapedAt": "2024-08-14T15:37:55.321Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "9 AM to 3:15 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "9 AM to 3:15 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "9 AM to 3:15 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "9 AM to 3:15 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "9 AM to 4 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=State%20Bank%20Of%20Mauritius&query_place_id=ChIJO2l7npBcfCERKVeyafcZSvE",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMVVDFaFPchssqkJJRJxI2uv1kYOCK7jgsvCMQ5=w426-h240-k-no"
+},
+{
+  "searchString": "bank",
+  "rank": 2,
+  "searchPageUrl": "https://www.google.com/maps/search/bank/@-19.91149407626266,57.69754921418692,13z?hl=en",
+  "isAdvertisement": false,
+  "title": "Maubank",
+  "price": null,
+  "categoryName": "Bank",
+  "address": "XHPQ+M86, Grand Baie, Mauritius",
+  "neighborhood": null,
+  "street": "XHPQ+M86",
+  "city": "Grand Baie",
+  "postalCode": null,
+  "state": null,
+  "countryCode": "MU",
+  "phone": "+230 405 9400",
+  "phoneUnformatted": "+2304059400",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -20.0133252,
+    "lng": 57.5882563
+  },
+  "totalScore": 2.5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJQcWOzAerfSER0HCMzg_7qpk",
+  "categories": [
+    "Bank"
+  ],
+  "fid": "0x217dab07cc8ec541:0x99aafb0fce8c70d0",
+  "cid": "11072938679152177360",
+  "reviewsCount": 2,
+  "imagesCount": 1,
+  "imageCategories": [],
+  "scrapedAt": "2024-08-14T15:37:55.332Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "9 AM to 3:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "9 AM to 3:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "9 AM to 3:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "9 AM to 3:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "9 AM to 4:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Maubank&query_place_id=ChIJQcWOzAerfSER0HCMzg_7qpk",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMOuk23wm9YZUACIyQo8zNNVj_-YRXZ71jzdng3=w426-h240-k-no"
+},
+{
+  "searchString": "bank",
+  "rank": 8,
+  "searchPageUrl": "https://www.google.com/maps/search/bank/@-20.30000296186867,57.83601142837385,13z?hl=en",
+  "isAdvertisement": false,
+  "title": "MAUBANK",
+  "price": null,
+  "categoryName": "Bank",
+  "address": "Corner Charles de Gaulles and, Miterrand Streets, Central Flacq, Mauritius",
+  "neighborhood": null,
+  "street": "Corner Charles de Gaulles and, Miterrand Streets",
+  "city": "Central Flacq",
+  "postalCode": null,
+  "state": null,
+  "countryCode": "MU",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -20.1921695,
+    "lng": 57.7215004
+  },
+  "totalScore": 3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ3ZC9Gu_5fCERRLzqAzvb6cQ",
+  "categories": [
+    "Bank"
+  ],
+  "fid": "0x217cf9ef1abd90dd:0xc4e9db3b03eabc44",
+  "cid": "14189113147522726980",
+  "reviewsCount": 4,
+  "imagesCount": 1,
+  "imageCategories": [],
+  "scrapedAt": "2024-08-14T15:37:55.123Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "9 AM to 3:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "9 AM to 3:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "9 AM to 3:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "9 AM to 3:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "9 AM to 4:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=MAUBANK&query_place_id=ChIJ3ZC9Gu_5fCERRLzqAzvb6cQ",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNGqcgtTERJR70jr-skcdU7wt7oXI7nnlyGYZOl=w408-h306-k-no"
+},
+{
+  "searchString": "bank",
+  "rank": 3,
+  "searchPageUrl": "https://www.google.com/maps/search/bank/@-19.91149407626266,57.69754921418692,13z?hl=en",
+  "isAdvertisement": false,
+  "title": "Mau Bank",
+  "price": null,
+  "categoryName": "Bank",
+  "address": "XM62+HM2, A5, Goodlands, Mauritius",
+  "neighborhood": null,
+  "street": "XM62+HM2, A5",
+  "city": "Goodlands",
+  "postalCode": null,
+  "state": null,
+  "countryCode": "MU",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -20.0386051,
+    "lng": 57.6516351
+  },
+  "totalScore": 2.4,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJvXITbnEAfSERwd6OGf3k29k",
+  "categories": [
+    "Bank"
+  ],
+  "fid": "0x217d00716e1372bd:0xd9dbe4fd198edec1",
+  "cid": "15698392701836648129",
+  "reviewsCount": 5,
+  "imagesCount": 1,
+  "imageCategories": [],
+  "scrapedAt": "2024-08-14T15:37:55.332Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Mau%20Bank&query_place_id=ChIJvXITbnEAfSERwd6OGf3k29k",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNONiryZT-butWJcbIZlBcFW7nqH0hvfbPa0SQS=w408-h544-k-no"
+},
+{
+  "searchString": "bank",
+  "rank": 4,
+  "searchPageUrl": "https://www.google.com/maps/search/bank/@-20.30000296186867,57.55908699999999,13z?hl=en",
+  "isAdvertisement": false,
+  "title": "Bank One",
+  "price": null,
+  "categoryName": "Bank",
+  "address": "St Jean Road, Quatre Bornes, Mauritius",
+  "neighborhood": null,
+  "street": "St Jean Road",
+  "city": "Quatre Bornes",
+  "postalCode": null,
+  "state": null,
+  "countryCode": "MU",
+  "website": "http://bankone.mu/",
+  "phone": "+230 202 9200",
+  "phoneUnformatted": "+2302029200",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -20.2637941,
+    "lng": 57.4810277
+  },
+  "totalScore": 2.3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJNVt2v0BbfCERMVrr68FCSWQ",
+  "categories": [
+    "Bank"
+  ],
+  "fid": "0x217c5b40bf765b35:0x644942c1ebeb5a31",
+  "cid": "7226380477746862641",
+  "reviewsCount": 6,
+  "imagesCount": 4,
+  "imageCategories": [],
+  "scrapedAt": "2024-08-14T15:37:55.321Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "8:45 AM to 3:45 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "8:45 AM to 3:45 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "8:45 AM to 3:45 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "8:45 AM to 3:45 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "8:45 AM to 4 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Bank%20One&query_place_id=ChIJNVt2v0BbfCERMVrr68FCSWQ",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipP064DxGvRcmibn4mHN_1-sX37Y6YwkTd0V9bcK=w408-h312-k-no"
+},
+{
+  "searchString": "bank",
+  "rank": 10,
+  "searchPageUrl": "https://www.google.com/maps/search/bank/@-20.30000296186867,57.83601142837385,13z?hl=en",
+  "isAdvertisement": false,
+  "title": "DBM (Development Bank of Mauritius)",
+  "price": null,
+  "categoryName": "Bank",
+  "address": "RP5C+GVR, Choonee Building, Central Flacq, Mauritius",
+  "neighborhood": null,
+  "street": "RP5C+GVR, Choonee Building",
+  "city": "Central Flacq",
+  "postalCode": null,
+  "state": null,
+  "countryCode": "MU",
+  "phone": "+230 413 1562",
+  "phoneUnformatted": "+2304131562",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -20.1911374,
+    "lng": 57.7221505
+  },
+  "totalScore": 4.8,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJVVVVVXn5fCERI2MwsM4ioNY",
+  "categories": [
+    "Bank"
+  ],
+  "fid": "0x217cf97955555555:0xd6a022ceb0306323",
+  "cid": "15465399391504851747",
+  "reviewsCount": 4,
+  "imagesCount": null,
+  "imageCategories": [],
+  "scrapedAt": "2024-08-14T15:37:55.123Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "9 AM to 3:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "9 AM to 3:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "9 AM to 3:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "9 AM to 3:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "9 AM to 3:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=DBM%20(Development%20Bank%20of%20Mauritius)&query_place_id=ChIJVVVVVXn5fCERI2MwsM4ioNY"
+},
+{
+  "searchString": "bank",
+  "rank": 5,
+  "searchPageUrl": "https://www.google.com/maps/search/bank/@-20.30000296186867,57.55908699999999,13z?hl=en",
+  "isAdvertisement": false,
+  "title": "Bank of Baroda",
+  "price": null,
+  "categoryName": "Bank",
+  "address": "PF2R+7VX, Vacoas-Phoenix, Mauritius",
+  "neighborhood": null,
+  "street": "PF2R+7VX",
+  "city": "Vacoas-Phoenix",
+  "postalCode": null,
+  "state": null,
+  "countryCode": "MU",
+  "phone": "+230 696 4507",
+  "phoneUnformatted": "+2306964507",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -20.2992511,
+    "lng": 57.4922212
+  },
+  "totalScore": 2.1,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ-2tVIJFcfCER2mTWMCbEYE8",
+  "categories": [
+    "Bank"
+  ],
+  "fid": "0x217c5c9120556bfb:0x4f60c42630d664da",
+  "cid": "5719787195067688154",
+  "reviewsCount": 7,
+  "imagesCount": 1,
+  "imageCategories": [],
+  "scrapedAt": "2024-08-14T15:37:55.321Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Bank%20of%20Baroda&query_place_id=ChIJ-2tVIJFcfCER2mTWMCbEYE8",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOkCvePfwlogQ6kMi9YBJO6wU4rFOkoM9N0fdj4=w531-h240-k-no"
+},
+{
+  "searchString": "bank",
+  "rank": 11,
+  "searchPageUrl": "https://www.google.com/maps/search/bank/@-20.30000296186867,57.83601142837385,13z?hl=en",
+  "isAdvertisement": false,
+  "title": "SBI Mauritius Ltd",
+  "price": null,
+  "categoryName": "Bank",
+  "address": "PM76+R73, Montagne Blanche, Mauritius",
+  "neighborhood": null,
+  "street": "PM76+R73",
+  "city": "Montagne Blanche",
+  "postalCode": null,
+  "state": null,
+  "countryCode": "MU",
+  "phone": "+230 437 5119",
+  "phoneUnformatted": "+2304375119",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -20.2854868,
+    "lng": 57.6606825
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJY1a4MzH2fCERGB4ncm-oRGM",
+  "categories": [
+    "Bank"
+  ],
+  "fid": "0x217cf63133b85663:0x6344a86f72271e18",
+  "cid": "7153027304781192728",
+  "reviewsCount": 2,
+  "imagesCount": null,
+  "imageCategories": [],
+  "scrapedAt": "2024-08-14T15:37:55.123Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "9 AM to 3 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "9 AM to 3 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "9 AM to 3 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "9 AM to 3 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "9 AM to 3 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=SBI%20Mauritius%20Ltd&query_place_id=ChIJY1a4MzH2fCERGB4ncm-oRGM"
+},
+{
+  "searchString": "bank",
+  "rank": 6,
+  "searchPageUrl": "https://www.google.com/maps/search/bank/@-20.30000296186867,57.55908699999999,13z?hl=en",
+  "isAdvertisement": false,
+  "title": "ABSA Bank",
+  "price": null,
+  "categoryName": "Bank",
+  "address": "5 S Soopramanien St, Beau Bassin-Rose Hill, Mauritius",
+  "neighborhood": "Rose Hill",
+  "street": "5 S Soopramanien St",
+  "city": "Beau Bassin-Rose Hill",
+  "postalCode": null,
+  "state": null,
+  "countryCode": "MU",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -20.2432028,
+    "lng": 57.4753388
+  },
+  "totalScore": 2.9,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJFbXOha5bfCER-pgl6RsZvMg",
+  "categories": [
+    "Bank"
+  ],
+  "fid": "0x217c5bae85ceb515:0xc8bc191be92598fa",
+  "cid": "14464463710873557242",
+  "reviewsCount": 8,
+  "imagesCount": 2,
+  "imageCategories": [],
+  "scrapedAt": "2024-08-14T15:37:55.321Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=ABSA%20Bank&query_place_id=ChIJFbXOha5bfCER-pgl6RsZvMg",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipM4KOxZCH2KQtN1zMX5Bd75keeaO3-LgjcTg1Vn=w426-h240-k-no"
+},
+{
+  "searchString": "bank",
+  "rank": 4,
+  "searchPageUrl": "https://www.google.com/maps/search/bank/@-19.91149407626266,57.69754921418692,13z?hl=en",
+  "isAdvertisement": false,
+  "title": "Absa Bank Grand Baie Super U ATM",
+  "price": null,
+  "categoryName": "Bank",
+  "address": "XHPQ+W38 Super U Grand Bay, Rte de la Salette, Grand Baie, Mauritius",
+  "neighborhood": null,
+  "street": "XHPQ+W38 Super U Grand Bay, Rte de la Salette",
+  "city": "Grand Baie",
+  "postalCode": null,
+  "state": null,
+  "countryCode": "MU",
+  "website": "https://www.absabank.mu/",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -20.0127241,
+    "lng": 57.5876991
+  },
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJi2nbCXCrfSERyJu4Ufq20Y4",
+  "categories": [
+    "Bank",
+    "ATM"
+  ],
+  "fid": "0x217dab7009db698b:0x8ed1b6fa51b89bc8",
+  "cid": "10291207809747426248",
+  "reviewsCount": 0,
+  "imagesCount": 1,
+  "imageCategories": [],
+  "scrapedAt": "2024-08-14T15:37:55.332Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Thursday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Friday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Open 24 hours"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible parking lot": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Absa%20Bank%20Grand%20Baie%20Super%20U%20ATM&query_place_id=ChIJi2nbCXCrfSERyJu4Ufq20Y4",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNrvKSxPYMKPswoq3TlrD5t0tkkmJA2HwACHDHL=w408-h562-k-no"
+},
+{
+  "searchString": "bank",
+  "rank": 12,
+  "searchPageUrl": "https://www.google.com/maps/search/bank/@-20.30000296186867,57.83601142837385,13z?hl=en",
+  "isAdvertisement": false,
+  "title": "Baroda bank",
+  "price": null,
+  "categoryName": "Bank",
+  "address": "HJX2+8PG, Rose Belle, Mauritius",
+  "neighborhood": null,
+  "street": "HJX2+8PG",
+  "city": "Rose Belle",
+  "postalCode": null,
+  "state": null,
+  "countryCode": "MU",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -20.4016882,
+    "lng": 57.6018382
+  },
+  "totalScore": 3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJHV0X5HxgfCERFIJ90kx3hKc",
+  "categories": [
+    "Bank"
+  ],
+  "fid": "0x217c607ce4175d1d:0xa784774cd27d8214",
+  "cid": "12070904073092432404",
+  "reviewsCount": 1,
+  "imagesCount": 1,
+  "imageCategories": [],
+  "scrapedAt": "2024-08-14T15:37:55.124Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Baroda%20bank&query_place_id=ChIJHV0X5HxgfCERFIJ90kx3hKc",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipM2U5zzdvxZ2qcWXbnrx5UP5sFYHsqd-1MxeSbh=w408-h544-k-no"
+},
+{
+  "searchString": "bank",
+  "rank": 5,
+  "searchPageUrl": "https://www.google.com/maps/search/bank/@-19.91149407626266,57.69754921418692,13z?hl=en",
+  "isAdvertisement": false,
+  "title": "SBM Grand Baie",
+  "price": null,
+  "categoryName": "Bank",
+  "address": "XHRM+253, B13, Grand Baie, Mauritius",
+  "neighborhood": null,
+  "street": "XHRM+253, B13",
+  "city": "Grand Baie",
+  "postalCode": null,
+  "state": null,
+  "countryCode": "MU",
+  "website": "https://www.sbmgroup.mu/",
+  "phone": "+230 207 0111",
+  "phoneUnformatted": "+2302070111",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -20.0099757,
+    "lng": 57.5829097
+  },
+  "totalScore": 3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJa7fy4AmrfSERSb0Sm0bRvEk",
+  "categories": [
+    "Bank"
+  ],
+  "fid": "0x217dab09e0f2b76b:0x49bcd1469b12bd49",
+  "cid": "5313351761569955145",
+  "reviewsCount": 10,
+  "imagesCount": 1,
+  "imageCategories": [],
+  "scrapedAt": "2024-08-14T15:37:55.332Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "9 AM to 3:15 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "9 AM to 3:15 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "9 AM to 3:15 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "9 AM to 3:15 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "9 AM to 4 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=SBM%20Grand%20Baie&query_place_id=ChIJa7fy4AmrfSERSb0Sm0bRvEk",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOGyfD6oL84IfEV7lWiORIqJdvck2uqEEfM2RuM=w426-h240-k-no"
+},
+{
+  "searchString": "bank",
+  "rank": 7,
+  "searchPageUrl": "https://www.google.com/maps/search/bank/@-20.30000296186867,57.55908699999999,13z?hl=en",
+  "isAdvertisement": false,
+  "title": "Bank One",
+  "price": null,
+  "categoryName": "Bank",
+  "address": "QF5F+4R4, Royal Rd, Beau Bassin-Rose Hill, Mauritius",
+  "neighborhood": "Rose Hill",
+  "street": "QF5F+4R4, Royal Rd",
+  "city": "Beau Bassin-Rose Hill",
+  "postalCode": null,
+  "state": null,
+  "countryCode": "MU",
+  "phone": "+230 202 9200",
+  "phoneUnformatted": "+2302029200",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -20.2422343,
+    "lng": 57.4745848
+  },
+  "totalScore": 2.8,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ8dUN0SdbfCERRAt3RGcPSIA",
+  "categories": [
+    "Bank"
+  ],
+  "fid": "0x217c5b27d10dd5f1:0x80480f6744770b44",
+  "cid": "9243655171382643524",
+  "reviewsCount": 4,
+  "imagesCount": 3,
+  "imageCategories": [],
+  "scrapedAt": "2024-08-14T15:37:55.321Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "8:45 AM to 3:45 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "8:45 AM to 3:45 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "8:45 AM to 3:45 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "8:45 AM to 3:45 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "8:45 AM to 4 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": false
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Bank%20One&query_place_id=ChIJ8dUN0SdbfCERRAt3RGcPSIA",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOgY_LU3Akt6uHCdkHE9FZBd0Hf2dn0fX4thOZG=w408-h306-k-no"
+},
+{
+  "searchString": "bank",
+  "rank": 13,
+  "searchPageUrl": "https://www.google.com/maps/search/bank/@-20.30000296186867,57.83601142837385,13z?hl=en",
+  "isAdvertisement": false,
+  "title": "MCB",
+  "price": null,
+  "categoryName": "Bank",
+  "address": "RP3F+F6C MCB Flacq, A7, Central Flacq, Mauritius",
+  "neighborhood": "Riche Mare",
+  "street": "RP3F+F6C MCB Flacq, A7",
+  "city": "Central Flacq",
+  "postalCode": null,
+  "state": null,
+  "countryCode": "MU",
+  "website": "http://www.mcb.mu/en/",
+  "phone": "+230 413 1445",
+  "phoneUnformatted": "+2304131445",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -20.196273,
+    "lng": 57.7222068
+  },
+  "totalScore": 3.2,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJCSWc4W_5fCERc0pc-Eo_LXc",
+  "categories": [
+    "Bank"
+  ],
+  "fid": "0x217cf96fe19c2509:0x772d3f4af85c4a73",
+  "cid": "8587589655692331635",
+  "reviewsCount": 34,
+  "imagesCount": 4,
+  "imageCategories": [],
+  "scrapedAt": "2024-08-14T15:37:55.124Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "9 AM to 3:15 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "9 AM to 3:15 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "9 AM to 3:15 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "9 AM to 3:15 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "9 AM to 5 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=MCB&query_place_id=ChIJCSWc4W_5fCERc0pc-Eo_LXc",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOqb6CHtBTsaPCdmwaDNe3Y7yGVh4YDz9v-Knq7=w408-h725-k-no"
+},
+{
+  "searchString": "bank",
+  "rank": 6,
+  "searchPageUrl": "https://www.google.com/maps/search/bank/@-19.91149407626266,57.69754921418692,13z?hl=en",
+  "isAdvertisement": false,
+  "title": "Absa Bank (Mauritius )Limited - Grand Baie La Croisette Branch",
+  "price": null,
+  "categoryName": "Bank",
+  "address": "Grand Baie, Mauritius",
+  "neighborhood": null,
+  "street": null,
+  "city": "Grand Baie",
+  "postalCode": null,
+  "state": null,
+  "countryCode": "MU",
+  "phone": "+230 404 1965",
+  "phoneUnformatted": "+2304041965",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -20.0220815,
+    "lng": 57.5799271
+  },
+  "totalScore": 3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJX_MASxKrfSER_L8IVTv-qF4",
+  "categories": [
+    "Bank"
+  ],
+  "fid": "0x217dab124b00f35f:0x5ea8fe3b5508bffc",
+  "cid": "6820981166435778556",
+  "reviewsCount": 12,
+  "imagesCount": 1,
+  "imageCategories": [],
+  "scrapedAt": "2024-08-14T15:37:55.332Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "9 AM to 3:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "9 AM to 3:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "9 AM to 3:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "9 AM to 3:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "9 AM to 4 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Absa%20Bank%20(Mauritius%20)Limited%20-%20Grand%20Baie%20La%20Croisette%20Branch&query_place_id=ChIJX_MASxKrfSER_L8IVTv-qF4",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOpNx4gA7eETia_udS_Lj99sdwcl4zPCZ0j5SVT=w408-h306-k-no"
+},
+{
+  "searchString": "bank",
+  "rank": 8,
+  "searchPageUrl": "https://www.google.com/maps/search/bank/@-20.30000296186867,57.55908699999999,13z?hl=en",
+  "isAdvertisement": false,
+  "title": "Maubank",
+  "price": null,
+  "categoryName": "Bank",
+  "address": "PF2V+H36, Vacoas-Phoenix, Mauritius",
+  "neighborhood": null,
+  "street": "PF2V+H36",
+  "city": "Vacoas-Phoenix",
+  "postalCode": null,
+  "state": null,
+  "countryCode": "MU",
+  "phone": "+230 405 9400",
+  "phoneUnformatted": "+2304059400",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -20.2985982,
+    "lng": 57.4926414
+  },
+  "totalScore": 2.4,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJzafx5pBcfCERJ62NhycvClM",
+  "categories": [
+    "Bank"
+  ],
+  "fid": "0x217c5c90e6f1a7cd:0x530a2f27878dad27",
+  "cid": "5983646901739564327",
+  "reviewsCount": 13,
+  "imagesCount": 3,
+  "imageCategories": [],
+  "scrapedAt": "2024-08-14T15:37:55.321Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Maubank&query_place_id=ChIJzafx5pBcfCERJ62NhycvClM",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNb9rDlNTnhid8w_G9c8rclDZPruCuFkv3EXypo=w408-h725-k-no"
+}]

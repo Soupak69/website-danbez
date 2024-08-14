@@ -1,0 +1,1221 @@
+[
+{
+  "searchString": "transport",
+  "rank": 1,
+  "searchPageUrl": "https://www.google.com/maps/search/transport/@-20.559008885606012,57.83601142837385,13z?hl=en",
+  "isAdvertisement": false,
+  "title": "Nou Taxi Mauritius",
+  "price": null,
+  "categoryName": "Transportation service",
+  "address": "Coastal Rd, Blue Bay, Mauritius",
+  "neighborhood": null,
+  "street": "Coastal Rd",
+  "city": "Blue Bay",
+  "postalCode": null,
+  "state": null,
+  "countryCode": "MU",
+  "website": "https://www.noutaxi-mauritius.com/",
+  "phone": "+230 5253 7751",
+  "phoneUnformatted": "+23052537751",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -20.4416983,
+    "lng": 57.7210612
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ24reHdaLfCERnPJHZmb1EEE",
+  "categories": [
+    "Transportation service"
+  ],
+  "fid": "0x217c8bd61dde8adb:0x4110f5666647f29c",
+  "cid": "4688517032244146844",
+  "reviewsCount": 50,
+  "imagesCount": 4,
+  "imageCategories": [],
+  "scrapedAt": "2024-08-14T16:24:28.622Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "5 AM to 11 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "5 AM to 11 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "5 AM to 11 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "5 AM to 11 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "5 AM to 11 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "5 AM to 11 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "5 AM to 11 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Nou%20Taxi%20Mauritius&query_place_id=ChIJ24reHdaLfCERnPJHZmb1EEE",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMyzTweiRFfauBtWTOVnOYMkIPxI4I_2okQDdTo=w408-h306-k-no"
+},
+{
+  "searchString": "transport",
+  "rank": 1,
+  "searchPageUrl": "https://www.google.com/maps/search/transport/@-20.1705,57.69754921418692,13z?hl=en",
+  "isAdvertisement": false,
+  "title": "Hollywood Transport",
+  "price": null,
+  "categoryName": "Transportation service",
+  "address": "RMJ3+PV7, Brisee Verdiere, Mauritius",
+  "neighborhood": null,
+  "street": "RMJ3+PV7",
+  "city": "Brisee Verdiere",
+  "postalCode": null,
+  "state": null,
+  "countryCode": "MU",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -20.1682077,
+    "lng": 57.6546729
+  },
+  "totalScore": 4,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJjRpRRqP4fCERKYnfdb2gisM",
+  "categories": [
+    "Transportation service"
+  ],
+  "fid": "0x217cf8a346511a8d:0xc38aa0bd75df8929",
+  "cid": "14090251119768865065",
+  "reviewsCount": 2,
+  "imagesCount": null,
+  "imageCategories": [],
+  "scrapedAt": "2024-08-14T16:24:28.652Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Hollywood%20Transport&query_place_id=ChIJjRpRRqP4fCERKYnfdb2gisM"
+},
+{
+  "searchString": "transport",
+  "rank": 1,
+  "searchPageUrl": "https://www.google.com/maps/search/transport/@-20.559008885606012,57.55908699999999,13z?hl=en",
+  "isAdvertisement": false,
+  "title": "Perle De La Savanne Transport Company",
+  "price": null,
+  "categoryName": "Transportation service",
+  "address": "Route Royale, Surinam, Mauritius",
+  "neighborhood": null,
+  "street": "Route Royale",
+  "city": "Surinam",
+  "postalCode": null,
+  "state": null,
+  "countryCode": "MU",
+  "phone": "+230 625 6327",
+  "phoneUnformatted": "+2306256327",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -20.5116557,
+    "lng": 57.5098121
+  },
+  "totalScore": 3.4,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ8xJAph1lfCERXxyavdosqlE",
+  "categories": [
+    "Transportation service"
+  ],
+  "fid": "0x217c651da64012f3:0x51aa2cdabd9a1c5f",
+  "cid": "5884565181108460639",
+  "reviewsCount": 15,
+  "imagesCount": 2,
+  "imageCategories": [],
+  "scrapedAt": "2024-08-14T16:24:28.828Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Perle%20De%20La%20Savanne%20Transport%20Company&query_place_id=ChIJ8xJAph1lfCERXxyavdosqlE",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMLVXvIe80UZbuD0j4M1u8qiJLw6w4bLtISKI8-=w408-h544-k-no"
+},
+{
+  "searchString": "transport",
+  "rank": 2,
+  "searchPageUrl": "https://www.google.com/maps/search/transport/@-20.559008885606012,57.83601142837385,13z?hl=en",
+  "isAdvertisement": false,
+  "title": "Blue bay taxi service",
+  "price": null,
+  "categoryName": "Transportation service",
+  "address": "HP49+542, Coastal Rd, Blue Bay, Mauritius",
+  "neighborhood": null,
+  "street": "HP49+542, Coastal Rd",
+  "city": "Blue Bay",
+  "postalCode": null,
+  "state": null,
+  "countryCode": "MU",
+  "phone": "+230 5772 7796",
+  "phoneUnformatted": "+23057727796",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -20.4446236,
+    "lng": 57.7177519
+  },
+  "totalScore": 4.7,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ8Z4W7YeLfCER843YBAHLs0s",
+  "categories": [
+    "Transportation service"
+  ],
+  "fid": "0x217c8b87ed169ef1:0x4bb3cb0104d88df3",
+  "cid": "5454926778912509427",
+  "reviewsCount": 12,
+  "imagesCount": 4,
+  "imageCategories": [],
+  "scrapedAt": "2024-08-14T16:24:28.622Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Blue%20bay%20taxi%20service&query_place_id=ChIJ8Z4W7YeLfCER843YBAHLs0s",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipN7PkDDblTvEVOECmGuajs5Rx8iH_t6Q3d6xPA=w408-h306-k-no"
+},
+
+{
+  "searchString": "transport",
+  "rank": 3,
+  "searchPageUrl": "https://www.google.com/maps/search/transport/@-20.559008885606012,57.83601142837385,13z?hl=en",
+  "isAdvertisement": false,
+  "title": "Rose Belle Transport",
+  "price": null,
+  "categoryName": "Public transport",
+  "address": "HJV3+2Q3, Telugu Temple Road, Rose Belle, Mauritius",
+  "neighborhood": null,
+  "street": "HJV3+2Q3, Telugu Temple Road",
+  "city": "Rose Belle",
+  "postalCode": null,
+  "state": null,
+  "countryCode": "MU",
+  "phone": "+230 5735 8825",
+  "phoneUnformatted": "+23057358825",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -20.4074864,
+    "lng": 57.6044136
+  },
+  "totalScore": 4.2,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJSeVidmRgfCER7bhpOEXD3pI",
+  "categories": [
+    "Public transport"
+  ],
+  "fid": "0x217c60647662e549:0x92dec3453869b8ed",
+  "cid": "10583110876433856749",
+  "reviewsCount": 31,
+  "imagesCount": null,
+  "imageCategories": [],
+  "scrapedAt": "2024-08-14T16:24:28.623Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Rose%20Belle%20Transport&query_place_id=ChIJSeVidmRgfCER7bhpOEXD3pI"
+},
+{
+  "searchString": "transport",
+  "rank": 4,
+  "searchPageUrl": "https://www.google.com/maps/search/transport/@-20.559008885606012,57.83601142837385,13z?hl=en",
+  "isAdvertisement": false,
+  "title": "Taxi Transfer Mauritius Paradise",
+  "price": null,
+  "categoryName": "Taxi service",
+  "address": "Royal Road, Plaine Magnien, Mauritius",
+  "neighborhood": null,
+  "street": "Royal Road",
+  "city": "Plaine Magnien",
+  "postalCode": null,
+  "state": null,
+  "countryCode": "MU",
+  "phone": "+230 5258 1029",
+  "phoneUnformatted": "+23052581029",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -20.4327063,
+    "lng": 57.6748862
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJD07ZsquLfCERZCGtHNnoy_A",
+  "categories": [
+    "Taxi service"
+  ],
+  "fid": "0x217c8babb2d94e0f:0xf0cbe8d91cad2164",
+  "cid": "17351218008561623396",
+  "reviewsCount": 30,
+  "imagesCount": 57,
+  "imageCategories": [],
+  "scrapedAt": "2024-08-14T16:24:28.623Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible restroom": true
+      },
+      {
+        "Wheelchair accessible seating": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Taxi%20Transfer%20Mauritius%20Paradise&query_place_id=ChIJD07ZsquLfCERZCGtHNnoy_A",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMFfgGSu-uxNm_52BjL7wnL8YVfYkg2-r1yZfdy=w408-h306-k-no"
+},
+{
+  "searchString": "transport",
+  "rank": 3,
+  "searchPageUrl": "https://www.google.com/maps/search/transport/@-20.1705,57.69754921418692,13z?hl=en",
+  "isAdvertisement": false,
+  "title": "UrbanRide_Express",
+  "price": null,
+  "categoryName": "Taxi service",
+  "address": "Juggoo Land, MU, 742CU001, Mauritius",
+  "neighborhood": "Belle Mare",
+  "street": "Juggoo Land, MU",
+  "city": "Quatre Cocos",
+  "postalCode": "742CU001",
+  "state": null,
+  "countryCode": "MU",
+  "website": "http://thetaxiservice.company/",
+  "phone": "+230 5259 2165",
+  "phoneUnformatted": "+23052592165",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -20.1995813,
+    "lng": 57.7771566
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJUczewhP7fCERjQBsLl5AnrE",
+  "categories": [
+    "Taxi service"
+  ],
+  "fid": "0x217cfb13c2decc51:0xb19e405e2e6c008d",
+  "cid": "12798737964283461773",
+  "reviewsCount": 14,
+  "imagesCount": 2,
+  "imageCategories": [],
+  "scrapedAt": "2024-08-14T16:24:28.652Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible restroom": true
+      },
+      {
+        "Wheelchair accessible seating": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Gender-neutral restroom": true
+      },
+      {
+        "Restroom": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=UrbanRide_Express&query_place_id=ChIJUczewhP7fCERjQBsLl5AnrE",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOq-4rTH6WziAkdRvfasbaCkElWFYnrzVt35pqT=w408-h725-k-no"
+},
+{
+  "searchString": "transport",
+  "rank": 3,
+  "searchPageUrl": "https://www.google.com/maps/search/transport/@-20.559008885606012,57.55908699999999,13z?hl=en",
+  "isAdvertisement": false,
+  "title": "Dinesh Transport service",
+  "price": null,
+  "categoryName": "Transportation service",
+  "address": "Paul baillache street, Chemin Grenier, Mauritius",
+  "neighborhood": null,
+  "street": "Paul baillache street",
+  "city": "Chemin Grenier",
+  "postalCode": null,
+  "state": null,
+  "countryCode": "MU",
+  "website": "https://www.facebook.com/BodyRider?mibextid=kFxxJD",
+  "phone": "+230 5912 8191",
+  "phoneUnformatted": "+23059128191",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -20.4967315,
+    "lng": 57.468383
+  },
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJOWey5p5lfCERN9Dpf1yaF_w",
+  "categories": [
+    "Transportation service"
+  ],
+  "fid": "0x217c659ee6b26739:0xfc179a5c7fe9d037",
+  "cid": "18165157344095883319",
+  "reviewsCount": 0,
+  "imagesCount": 2,
+  "imageCategories": [],
+  "scrapedAt": "2024-08-14T16:24:28.828Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Thursday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Friday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Open 24 hours"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Dinesh%20Transport%20service&query_place_id=ChIJOWey5p5lfCERN9Dpf1yaF_w",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMjO6rEw4bLB0DAnZJQZvCwxG0kn6mFiSl-y1Jh=w408-h544-k-no"
+},
+{
+  "searchString": "transport",
+  "rank": 4,
+  "searchPageUrl": "https://www.google.com/maps/search/transport/@-20.1705,57.69754921418692,13z?hl=en",
+  "isAdvertisement": false,
+  "title": "Javed Taxi & Excursions",
+  "price": null,
+  "categoryName": "Taxi service",
+  "address": "Madrassa Road, Belle Vue Maurel, Mauritius",
+  "neighborhood": "Barlow",
+  "street": "Madrassa Road",
+  "city": "Belle Vue Maurel",
+  "postalCode": null,
+  "state": null,
+  "countryCode": "MU",
+  "phone": "+230 5251 4134",
+  "phoneUnformatted": "+23052514134",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -20.1269706,
+    "lng": 57.6537371
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ_26XuKz_fCERJlDGKKBO4zA",
+  "categories": [
+    "Taxi service"
+  ],
+  "fid": "0x217cffacb8976eff:0x30e34ea028c65026",
+  "cid": "3522745783319679014",
+  "reviewsCount": 1,
+  "imagesCount": 1,
+  "imageCategories": [],
+  "scrapedAt": "2024-08-14T16:24:28.652Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Javed%20Taxi%20%26%20Excursions&query_place_id=ChIJ_26XuKz_fCERJlDGKKBO4zA",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNv926JO1qMAawBNEJu3APFV_kdMUMVmrwNnM6U=w408-h306-k-no"
+},
+{
+  "searchString": "transport",
+  "rank": 2,
+  "searchPageUrl": "https://www.google.com/maps/search/transport/@-20.42950592373734,57.55908699999999,13z?hl=en",
+  "isAdvertisement": false,
+  "title": "TripFeast LTD",
+  "price": null,
+  "categoryName": "Transportation service",
+  "address": "Dosemahamed Ln, Grand Bois, Mauritius",
+  "neighborhood": null,
+  "street": "Dosemahamed Ln",
+  "city": "Grand Bois",
+  "postalCode": null,
+  "state": null,
+  "countryCode": "MU",
+  "phone": "+230 5795 5387",
+  "phoneUnformatted": "+23057955387",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -20.4219391,
+    "lng": 57.550578
+  },
+  "totalScore": 4.1,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJvwVe8CpnfCERVeUY_attTCg",
+  "categories": [
+    "Transportation service"
+  ],
+  "fid": "0x217c672af05e05bf:0x284c6dabfd18e555",
+  "cid": "2903816445200229717",
+  "reviewsCount": 10,
+  "imagesCount": 3,
+  "imageCategories": [],
+  "scrapedAt": "2024-08-14T16:24:29.253Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Thursday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Friday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Open 24 hours"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": false
+      },
+      {
+        "Wheelchair accessible parking lot": false
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=TripFeast%20LTD&query_place_id=ChIJvwVe8CpnfCERVeUY_attTCg",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOkoNj6xdVS4VkliPAE2ZAH8gveOPaLYVGlJPZo=w426-h240-k-no"
+},
+{
+  "searchString": "transport",
+  "rank": 5,
+  "searchPageUrl": "https://www.google.com/maps/search/transport/@-20.559008885606012,57.83601142837385,13z?hl=en",
+  "isAdvertisement": false,
+  "title": "Somatrans SDV LTD",
+  "price": null,
+  "categoryName": "Freight forwarding service",
+  "address": "Ground2Air Cargo Terminal, Cargo Village, Plaine Magnien, Mauritius",
+  "neighborhood": null,
+  "street": "Ground2Air Cargo Terminal, Cargo Village",
+  "city": "Plaine Magnien",
+  "postalCode": null,
+  "state": null,
+  "countryCode": "MU",
+  "website": "http://www.somatrans.mu/",
+  "phone": "+230 603 2400",
+  "phoneUnformatted": "+2306032400",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -20.437624,
+    "lng": 57.6826322
+  },
+  "totalScore": 4.6,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJEZUqrKiLfCERmRef3uTXkcA",
+  "categories": [
+    "Freight forwarding service"
+  ],
+  "fid": "0x217c8ba8ac2a9511:0xc091d7e4de9f1799",
+  "cid": "13876109304892692377",
+  "reviewsCount": 12,
+  "imagesCount": null,
+  "imageCategories": [],
+  "scrapedAt": "2024-08-14T16:24:28.623Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Somatrans%20SDV%20LTD&query_place_id=ChIJEZUqrKiLfCERmRef3uTXkcA"
+},
+{
+  "searchString": "transport",
+  "rank": 4,
+  "searchPageUrl": "https://www.google.com/maps/search/transport/@-20.559008885606012,57.55908699999999,13z?hl=en",
+  "isAdvertisement": false,
+  "title": "Scorptex Co Ltd",
+  "price": null,
+  "categoryName": "Transportation service",
+  "address": "MU, Mosque Road, Surinam 60916, Mauritius",
+  "neighborhood": null,
+  "street": "MU, Mosque Road",
+  "city": "Surinam",
+  "postalCode": "60916",
+  "state": null,
+  "countryCode": "MU",
+  "phone": "+230 5257 0553",
+  "phoneUnformatted": "+23052570553",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -20.5101563,
+    "lng": 57.5107667
+  },
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJefwTymBlfCERhwSwo3hvV3E",
+  "categories": [
+    "Transportation service"
+  ],
+  "fid": "0x217c6560ca13fc79:0x71576f78a3b00487",
+  "cid": "8167119013192664199",
+  "reviewsCount": 0,
+  "imagesCount": 3,
+  "imageCategories": [],
+  "scrapedAt": "2024-08-14T16:24:28.828Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible restroom": false
+      },
+      {
+        "Wheelchair accessible seating": false
+      }
+    ],
+    "Amenities": [
+      {
+        "Gender-neutral restroom": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Scorptex%20Co%20Ltd&query_place_id=ChIJefwTymBlfCERhwSwo3hvV3E",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMLDRzivLkQd1kVOlWTvKXzJGFIhkbYCJhvw0jO=w408-h906-k-no"
+},
+{
+  "searchString": "transport",
+  "rank": 6,
+  "searchPageUrl": "https://www.google.com/maps/search/transport/@-20.559008885606012,57.83601142837385,13z?hl=en",
+  "isAdvertisement": false,
+  "title": "Le Tarmac",
+  "price": null,
+  "categoryName": "Transportation service",
+  "address": "New Terminal Building, Plaine Magnien, Mauritius",
+  "neighborhood": null,
+  "street": "New Terminal Building",
+  "city": "Plaine Magnien",
+  "postalCode": null,
+  "state": null,
+  "countryCode": "MU",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -20.4350776,
+    "lng": 57.6809287
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJPditA8SLfCERyiIG4rkCzQY",
+  "categories": [
+    "Transportation service"
+  ],
+  "fid": "0x217c8bc403add83d:0x6cd02b9e20622ca",
+  "cid": "490050931837510346",
+  "reviewsCount": 3,
+  "imagesCount": 1,
+  "imageCategories": [],
+  "scrapedAt": "2024-08-14T16:24:28.623Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Le%20Tarmac&query_place_id=ChIJPditA8SLfCERyiIG4rkCzQY",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPdJVKIv1uBzvjBfUbWQAMeRAa22LZcKCrooB-s=w408-h272-k-no"
+},
+{
+  "searchString": "transport",
+  "rank": 5,
+  "searchPageUrl": "https://www.google.com/maps/search/transport/@-20.1705,57.69754921418692,13z?hl=en",
+  "isAdvertisement": false,
+  "title": "Bheena Motorcar Group Ltd",
+  "price": null,
+  "categoryName": "Transportation service",
+  "address": "L' Amitié, Royal Road MU, Rivière du Rempart 31501, Mauritius",
+  "neighborhood": null,
+  "street": "L' Amitié, Royal Road MU",
+  "city": "Rivière du Rempart",
+  "postalCode": "31501",
+  "state": null,
+  "countryCode": "MU",
+  "phone": "+230 412 5163",
+  "phoneUnformatted": "+2304125163",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -20.1120523,
+    "lng": 57.6705628
+  },
+  "totalScore": 3.3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJZRwcB1v_fCERwNbjAbzNUVc",
+  "categories": [
+    "Transportation service"
+  ],
+  "fid": "0x217cff5b071c1c65:0x5751cdbc01e3d6c0",
+  "cid": "6292036361782548160",
+  "reviewsCount": 3,
+  "imagesCount": null,
+  "imageCategories": [],
+  "scrapedAt": "2024-08-14T16:24:28.652Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Bheena%20Motorcar%20Group%20Ltd&query_place_id=ChIJZRwcB1v_fCERwNbjAbzNUVc"
+},
+{
+  "searchString": "transport",
+  "rank": 3,
+  "searchPageUrl": "https://www.google.com/maps/search/transport/@-20.42950592373734,57.55908699999999,13z?hl=en",
+  "isAdvertisement": false,
+  "title": "Koukou Towing Ltd (KTL)",
+  "price": null,
+  "categoryName": "Transportation service",
+  "address": "A10 Royal Road, Mare D Albert, Mauritius",
+  "neighborhood": null,
+  "street": "A10 Royal Road",
+  "city": "Mare D Albert",
+  "postalCode": null,
+  "state": null,
+  "countryCode": "MU",
+  "phone": "+230 5947 3161",
+  "phoneUnformatted": "+23059473161",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -20.4258613,
+    "lng": 57.6440083
+  },
+  "totalScore": 4.1,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJtZ4m0aFhfCERZhm-khOSOi4",
+  "categories": [
+    "Transportation service"
+  ],
+  "fid": "0x217c61a1d1269eb5:0x2e3a921392be1966",
+  "cid": "3331135487157868902",
+  "reviewsCount": 11,
+  "imagesCount": 4,
+  "imageCategories": [],
+  "scrapedAt": "2024-08-14T16:24:29.253Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Thursday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Friday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Open 24 hours"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Koukou%20Towing%20Ltd%20(KTL)&query_place_id=ChIJtZ4m0aFhfCERZhm-khOSOi4",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipN__7Uq-F7ga460eg52Za1VoAjFA1-w19-R4SvV=w532-h240-k-no"
+},
+{
+  "searchString": "transport",
+  "rank": 5,
+  "searchPageUrl": "https://www.google.com/maps/search/transport/@-20.559008885606012,57.55908699999999,13z?hl=en",
+  "isAdvertisement": false,
+  "title": "B.R Supertour",
+  "price": null,
+  "categoryName": "Transportation service",
+  "address": "New Mosque Road, Chemin Grenier, Mauritius",
+  "neighborhood": null,
+  "street": "New Mosque Road",
+  "city": "Chemin Grenier",
+  "postalCode": null,
+  "state": null,
+  "countryCode": "MU",
+  "phone": "+230 5251 1750",
+  "phoneUnformatted": "+23052511750",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -20.4990439,
+    "lng": 57.4796006
+  },
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJn5dE5cRlfCER2u9KfKzBG2o",
+  "categories": [
+    "Transportation service"
+  ],
+  "fid": "0x217c65c4e544979f:0x6a1bc1ac7c4aefda",
+  "cid": "7645917738955370458",
+  "reviewsCount": 0,
+  "imagesCount": null,
+  "imageCategories": [],
+  "scrapedAt": "2024-08-14T16:24:28.828Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=B.R%20Supertour&query_place_id=ChIJn5dE5cRlfCER2u9KfKzBG2o"
+},
+{
+  "searchString": "transport",
+  "rank": 6,
+  "searchPageUrl": "https://www.google.com/maps/search/transport/@-20.1705,57.69754921418692,13z?hl=en",
+  "isAdvertisement": false,
+  "title": "AVNISH TOURS LTD",
+  "price": null,
+  "categoryName": "Transportation service",
+  "address": "VMF5+C3J, Belle Vue Maurel, Mauritius",
+  "neighborhood": "Barlow",
+  "street": "VMF5+C3J",
+  "city": "Belle Vue Maurel",
+  "postalCode": null,
+  "state": null,
+  "countryCode": "MU",
+  "phone": "+230 5965 5864",
+  "phoneUnformatted": "+23059655864",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -20.1264233,
+    "lng": 57.6576511
+  },
+  "totalScore": 3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ_YBc52j_fCERpY2uSnYxcpA",
+  "categories": [
+    "Transportation service"
+  ],
+  "fid": "0x217cff68e75c80fd:0x907231764aae8da5",
+  "cid": "10408436072935493029",
+  "reviewsCount": 3,
+  "imagesCount": null,
+  "imageCategories": [],
+  "scrapedAt": "2024-08-14T16:24:28.652Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=AVNISH%20TOURS%20LTD&query_place_id=ChIJ_YBc52j_fCERpY2uSnYxcpA"
+},
+{
+  "searchString": "transport",
+  "rank": 6,
+  "searchPageUrl": "https://www.google.com/maps/search/transport/@-20.559008885606012,57.55908699999999,13z?hl=en",
+  "isAdvertisement": false,
+  "title": "SOUILLAC",
+  "price": null,
+  "categoryName": "Transportation service",
+  "address": "FGJG+J89, Souillac, Mauritius",
+  "neighborhood": null,
+  "street": "FGJG+J89",
+  "city": "Souillac",
+  "postalCode": null,
+  "state": null,
+  "countryCode": "MU",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -20.5184504,
+    "lng": 57.5258699
+  },
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJQ1J-PwBlfCERk5eUh4A8PBQ",
+  "categories": [
+    "Transportation service"
+  ],
+  "fid": "0x217c65003f7e5243:0x143c3c8087949793",
+  "cid": "1458106902089340819",
+  "reviewsCount": 0,
+  "imagesCount": null,
+  "imageCategories": [],
+  "scrapedAt": "2024-08-14T16:24:28.828Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=SOUILLAC&query_place_id=ChIJQ1J-PwBlfCERk5eUh4A8PBQ"
+},
+{
+  "searchString": "transport",
+  "rank": 2,
+  "searchPageUrl": "https://www.google.com/maps/search/transport/@-10.4145,56.57575385532974,13z?hl=en",
+  "isAdvertisement": false,
+  "title": "Agalega New Runway",
+  "price": null,
+  "categoryName": "Airport",
+  "address": "JJF4+J9H, North, La Fourche, Mauritius",
+  "neighborhood": null,
+  "street": "JJF4+J9H, North",
+  "city": "La Fourche",
+  "postalCode": null,
+  "state": null,
+  "countryCode": "MU",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -10.3759311,
+    "lng": 56.6059838
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ7WY89EEVrCMR-YGohc8Y9_A",
+  "categories": [
+    "Airport"
+  ],
+  "fid": "0x23ac1541f43c66ed:0xf0f718cf85a881f9",
+  "cid": "17363374167929946617",
+  "reviewsCount": 24,
+  "imagesCount": 4,
+  "imageCategories": [],
+  "scrapedAt": "2024-08-14T16:24:29.358Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Agalega%20New%20Runway&query_place_id=ChIJ7WY89EEVrCMR-YGohc8Y9_A",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPi2qB7By3iQoMbGfqSzDYoWN85mMVwsnyr3SdS=w408-h306-k-no"
+},
+{
+  "searchString": "transport",
+  "rank": 7,
+  "searchPageUrl": "https://www.google.com/maps/search/transport/@-20.559008885606012,57.83601142837385,13z?hl=en",
+  "isAdvertisement": false,
+  "title": "Taxi Mauritius Tour operator",
+  "price": null,
+  "categoryName": "Tour operator",
+  "address": "International Airport, Sir Seewoosagur Ramgoolam MU, royal road, Plaine Magnien 51501, Mauritius",
+  "neighborhood": null,
+  "street": "International Airport, Sir Seewoosagur Ramgoolam MU, royal road",
+  "city": "Plaine Magnien",
+  "postalCode": "51501",
+  "state": null,
+  "countryCode": "MU",
+  "website": "https://www.facebook.com/Mauritiustaxiholiday?mibextid=ZbWKwL",
+  "phone": "+230 5836 4657",
+  "phoneUnformatted": "+23058364657",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": -20.4326513,
+    "lng": 57.6614232
+  },
+  "totalScore": 4.8,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJeTffPXSLfCERnZMXZS2tezs",
+  "categories": [
+    "Tour operator",
+    "Car leasing service",
+    "Taxi service",
+    "Tour agency",
+    "Tourist information center"
+  ],
+  "fid": "0x217c8b743ddf3779:0x3b7bad2d6517939d",
+  "cid": "4286209880854336413",
+  "reviewsCount": 82,
+  "imagesCount": 71,
+  "imageCategories": [],
+  "scrapedAt": "2024-08-14T16:24:28.623Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Thursday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Friday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Open 24 hours"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Taxi%20Mauritius%20Tour%20operator&query_place_id=ChIJeTffPXSLfCERnZMXZS2tezs",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPZs3eYD1khdjpyaIbOLlkTmfs3iRIr4fpBiZcT=w408-h544-k-no"
+},
+{
+  "searchString": "transport",
+  "rank": 7,
+  "searchPageUrl": "https://www.google.com/maps/search/transport/@-20.1705,57.69754921418692,13z?hl=en",
+  "isAdvertisement": false,
+  "title": "la place taxi",
+  "price": null,
+  "categoryName": "Transportation service",
+  "address": "RP5F+6RG, Central Flacq, Mauritius",
+  "neighborhood": null,
+  "street": "RP5F+6RG",
+  "city": "Central Flacq",
+  "postalCode": null,
+  "state": null,
+  "countryCode": "MU",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -20.1919389,
+    "lng": 57.7245897
+  },
+  "totalScore": 4,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJG38PQHP5fCERIXrpE0nXP-0",
+  "categories": [
+    "Transportation service"
+  ],
+  "fid": "0x217cf973400f7f1b:0xed3fd74913e97a21",
+  "cid": "17095619419388344865",
+  "reviewsCount": 1,
+  "imagesCount": 2,
+  "imageCategories": [],
+  "scrapedAt": "2024-08-14T16:24:28.652Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "6:30 AM to 5:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "6:30 AM to 5:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "6:30 AM to 5:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "6:30 AM to 5:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "6:30 AM to 5:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "6:30 AM to 5:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "6:30 AM to 4 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=la%20place%20taxi&query_place_id=ChIJG38PQHP5fCERIXrpE0nXP-0",
+  "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNMTZsMwCvwi8Kv67GOEjrZkr-QwFqwjOKmyLHv=w408-h726-k-no"
+},
+{
+  "searchString": "transport",
+  "rank": 4,
+  "searchPageUrl": "https://www.google.com/maps/search/transport/@-20.42950592373734,57.55908699999999,13z?hl=en",
+  "isAdvertisement": false,
+  "title": "Phoenix Bird Services Ltd",
+  "price": null,
+  "categoryName": "Transportation service",
+  "address": "HJV3+2Q8, Telugu Temple Road, Rose Belle, Mauritius",
+  "neighborhood": null,
+  "street": "HJV3+2Q8, Telugu Temple Road",
+  "city": "Rose Belle",
+  "postalCode": null,
+  "state": null,
+  "countryCode": "MU",
+  "phone": "+230 5735 8825",
+  "phoneUnformatted": "+23057358825",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": -20.4074667,
+    "lng": 57.6044514
+  },
+  "totalScore": 4.8,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJZemMdmRgfCERmhMFtkiCJsc",
+  "categories": [
+    "Transportation service"
+  ],
+  "fid": "0x217c6064768ce965:0xc7268248b605139a",
+  "cid": "14350300511465706394",
+  "reviewsCount": 4,
+  "imagesCount": null,
+  "imageCategories": [],
+  "scrapedAt": "2024-08-14T16:24:29.253Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Phoenix%20Bird%20Services%20Ltd&query_place_id=ChIJZemMdmRgfCERmhMFtkiCJsc"
+}]

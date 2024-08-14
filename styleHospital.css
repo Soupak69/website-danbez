@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{  
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden; 
+}
+
+#backgroundVideo {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover; 
+    z-index: -1; 
+}
+
+.content {
+    position: relative; 
+    height: 100vh; 
+    overflow: auto; 
+}
+
+
+.wrapper .btn{
+    width: 100px;
+    height: 60px;
+    background: transparent;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-size: 16px;
+    color: white;
+    font-weight: 600;
+    position: relative;
+    left: 1400px;
+}
+
+
+.logo-button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0; 
+}
+
+.logo {
+    width: 300px;
+    position: relative;
+    top: 0; 
+    right: 0; /* Adjust as needed */
+    margin-top: -140px; /* Adjust as needed */
+    margin-left: 20px; /* Adjust as needed */
+}
+.logo:hover {
+    opacity: 0.8; 
+    transform: scale(1.05);
+}
+
+h1{
+    font-size: 32px;
+    position: absolute;
+    bottom: 80%;
+    left: 5%;
+    color: white;
+}
+
+h2{
+    font-size: 28px;
+    position: absolute;
+    bottom: 75%;
+    left: 5%;
+    color: white;
+}
+
+#hospital-list {
+    margin-top: 20px;
+}
+.hospital {
+    background-color: transparent;
+    border: none;
+    border-top: 2px solid white;
+    margin: 200px ;
+    width: 70%;
+    margin-left: 75px; 
+}
+
+.hospital h3 {
+    margin: 0;
+    font-size: 1.5em;
+    color:white;
+    font-weight: 400;
+}
+
+.hospital p {
+    margin: 5px 0;
+    font-size: 20px;
+    color: white;
+}
+
+.hospital a{
+    font-size: 20px;
+}
+
+.hospital-image {
+    display: block; 
+    max-width: 100%; 
+    height: auto; 
+    margin-bottom: 10px; 
+}
+
+
+.hospital-image-left {
+    float: left; 
+    margin-right: 10px; 
+}
+
+.hospital-image-right {
+    float: right; 
+    margin-left: 10px; 
+}
